@@ -26,9 +26,9 @@
                 </div>
                 <br />
                 <div class="p-5 m-8 bg-purple-500 rounded-md container px-auto box-content items-center justify-center text-white shadow md:shadow-lg">
-                    <h1 class="font-sans text-2xl font-black">Coming soon</h1>
+                    <h1 class="font-sans text-2xl font-black">Music Player</h1>
                     <p class="my-5 font-sans text-base font-bold">
-                        I'll create another project again, see ya!
+                        Music player as well as downloader from YouTube.
                     </p>
                 </div>
             </div>
